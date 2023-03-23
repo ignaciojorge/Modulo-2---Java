@@ -28,6 +28,8 @@ public class Introjava {
         System.out.println("Uno o ambos números son igual o mayores a 25");
         }else{
         System.out.println("Ninguno de los números es igual o mayor a 25");
+        
+        //Hola como estas
         }
     }
     
